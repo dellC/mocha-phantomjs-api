@@ -1,0 +1,20 @@
+{
+  "name": "mocha-phantomjs-api",
+  "version": "1.0.0",
+  "description": "Run client-side Mocha tests in PhantomJS from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phantomjs",
+    "mocha",
+    "test"
+  ],
+  "author": "Thomas Chandelle <thomas.chndl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha-phantomjs-core": "~2.1.1",
+    "phantomjs": "~2.1.7"
+  }
+}
