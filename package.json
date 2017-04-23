@@ -1,6 +1,6 @@
 {
   "name": "mocha-phantomjs-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run client-side Mocha tests in PhantomJS from node",
   "main": "index.js",
   "scripts": {
