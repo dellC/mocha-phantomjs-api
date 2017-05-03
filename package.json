@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dellC/mocha-phantomjs-api.git"
+    "url": "git+https://github.com/tchandelle/mocha-phantomjs-api.git"
   },
   "bugs": {
-    "url": "https://github.com/dellC/mocha-phantomjs-api/issues"
+    "url": "https://github.com/tchandelle/mocha-phantomjs-api/issues"
   },
-  "homepage": "https://github.com/dellC/mocha-phantomjs-api#readme",
+  "homepage": "https://github.com/tchandelle/mocha-phantomjs-api#readme",
   "keywords": [
     "phantomjs",
     "mocha",
